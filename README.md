@@ -8,7 +8,6 @@ Welcome to my personal portfolio website! This site highlights my bio, skills, p
 
 ![Portfolio Screenshot](https://i.imgur.com/f6e4BAc.png)
 
-*(Replace with your actual homepage screenshot)*
 
 ---
 
@@ -29,10 +28,10 @@ Hi, I’m **Nishan Bajagain**—a passionate developer based in Kathmandu, Nepal
 
 ## 🚀 Tech Stack
 
-- **HTML5**  
-- **CSS3 / SCSS**  
-- **JavaScript** (or list frameworks like React, Vue)  
-- *(Add any additional tools/libraries you used)*
+- **Next.js**  
+- **CSS3**  
+- **JavaScript**
+- **Typescript**
 
 ---
 
@@ -47,3 +46,14 @@ Hi, I’m **Nishan Bajagain**—a passionate developer based in Kathmandu, Nepal
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/NishanBajagain-NB/Portfolio.git
+
+2. **How to Run**
+   ```bash
+   npm install -g pnpm
+
+   ```bash
+   pnpm install
+
+3. **To Run**
+   ```bash
+    pnpm dev    
