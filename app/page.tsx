@@ -1,5 +1,6 @@
 import Image from "next/image"
 import Link from "next/link"
+<link rel="icon" href="/favicon.ico" />
 import {
   Github,
   Linkedin,
