@@ -28,10 +28,11 @@ Hi, I’m **Nishan Bajagain**—a passionate developer based in Kathmandu, Nepal
 
 ## 🚀 Tech Stack
 
-- **Next.js**  
-- **CSS3**  
-- **JavaScript**
-- **Typescript**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ---
 
@@ -55,7 +56,7 @@ Hi, I’m **Nishan Bajagain**—a passionate developer based in Kathmandu, Nepal
  3. **Install Packages**
     ```bash
     pnpm install
-
- 4.***To Run**
+ 
+ 4.**To Run**
  ```bash
  pnpm dev 
