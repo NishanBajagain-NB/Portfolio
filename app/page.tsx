@@ -363,12 +363,12 @@ export default function Home() {
           <ProjectCard
             title="Portfolio Website"
             description="Responsive personal portfolio website using TailwindCSS and smooth animations."
-            image="/project1.png"
-            liveCount={5}
-            codeCount={7}
+            image="https://i.imgur.com/f6e4BAc.png"
+            liveCount={1}
+            codeCount={14}
             status="completed"
-            liveUrl="https://portfolio-demo.vercel.app"
-            codeUrl="https://github.com/nishanbajagain/portfolio"
+            liveUrl="https://nishan-bajagain.vercel.app/"
+            codeUrl="https://github.com/NishanBajagain-NB/Portfolio"
           />
           <ProjectCard
             title="E-commerce Dashboard"
