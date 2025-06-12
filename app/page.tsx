@@ -316,28 +316,28 @@ export default function Home() {
           <TabsContent value="frontend">
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
               <SkillCard name="HTML" icon="html" />
-              <SkillCard name="CSS IN Progress" icon="css" />
-              {/* <SkillCard name="JavaScript" icon="javascript" />
-              <SkillCard name="React" icon="react" />
+              <SkillCard name="CSS" icon="css" />
+              <SkillCard name="JavaScript In progress" icon="javascript" />
+{/*               <SkillCard name="React" icon="react" />
               <SkillCard name="Next.js" icon="nextjs" /> */}
             </div>
           </TabsContent>
           <TabsContent value="backend">
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-              {/* <SkillCard name="Node.js" icon="nodejs" />
-              <SkillCard name="Express" icon="express" />
-              <SkillCard name="MongoDB" icon="mongodb" />
-              <SkillCard name="SQL" icon="sql" /> */}
+              <SkillCard name="Node.js In progress" icon="nodejs" />
+              <SkillCard name="Express In progress" icon="express" />
+              <SkillCard name="MongoDB In progress" icon="mongodb" />
+{/*               <SkillCard name="SQL" icon="sql" /> */}
               <SkillCard name="IN PROGRESS" icon="?" />
             </div>
           </TabsContent>
           <TabsContent value="other">
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
               <SkillCard name="Git" icon="git" />
-               <SkillCard name="GitHUB" icon="github" />
+               <SkillCard name="GitHUB" icon="SiGithub" />
               <SkillCard name="Figma" icon="figma" />
               <SkillCard name="Responsive" icon="responsive" />
-              <SkillCard name="VS-CODE" icon="vscode" />
+              <SkillCard name="VS-CODE" icon="	SiVisualstudiocode" />
               <SkillCard name="SEO" icon="seo" />
             </div>
           </TabsContent>
