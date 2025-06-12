@@ -51,9 +51,11 @@ Hi, I’m **Nishan Bajagain**—a passionate developer based in Kathmandu, Nepal
    ```bash
    npm install -g pnpm
 
-   ```bash
-   pnpm install
 
-3. **To Run**
-   ```bash
-    pnpm dev    
+ 3. **Install Packages**
+    ```bash
+    pnpm install
+
+ 4.***To Run**
+ ```bash
+ pnpm dev 
