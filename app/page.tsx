@@ -328,7 +328,6 @@ export default function Home() {
               <SkillCard name="Express In progress" icon="express" />
               <SkillCard name="MongoDB In progress" icon="mongodb" />
 {/*               <SkillCard name="SQL" icon="sql" /> */}
-              <SkillCard name="IN PROGRESS" icon="?" />
             </div>
           </TabsContent>
           <TabsContent value="other">
