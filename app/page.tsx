@@ -375,7 +375,7 @@ export default function Home() {
             image="https://i.imgur.com/8yAkv3Z.png"
             liveCount={1}
             codeCount={1}
-            status="Completed"
+            status="completed"
             liveUrl="https://www.figma.com/proto/Lum5z4H9xLPjVP0aKDWND0?node-id=0-1"
             codeUrl="https://github.com/NishanBajagain-NB/Foodmandu"
           />
