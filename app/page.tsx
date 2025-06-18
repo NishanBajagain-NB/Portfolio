@@ -370,14 +370,14 @@ export default function Home() {
             codeUrl="https://github.com/NishanBajagain-NB/Portfolio"
           />
           <ProjectCard
-            title="E-commerce Dashboard"
-            description="Admin dashboard with React.js and Chart.js to manage users, sales, and products."
-            image="/project2.png"
-            liveCount={3}
-            codeCount={5}
-            status="in-progress"
-            liveUrl="https://ecommerce-dashboard-demo.vercel.app"
-            codeUrl="https://github.com/nishanbajagain/ecommerce-dashboard"
+            title="Figma-Foodmandu"
+            description="Foodmandu is a clean and modern mobile-first food delivery UI/UX design created in Figma. "
+            image="https://i.imgur.com/8yAkv3Z.png"
+            liveCount={1}
+            codeCount={1}
+            status="Completed"
+            liveUrl="https://www.figma.com/proto/Lum5z4H9xLPjVP0aKDWND0?node-id=0-1"
+            codeUrl="https://github.com/NishanBajagain-NB/Foodmandu"
           />
           <ProjectCard
             title="Blog CMS"
